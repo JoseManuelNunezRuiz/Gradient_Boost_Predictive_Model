@@ -1,0 +1,3 @@
+"Modelo,MAE,RMSE,R^2 Score "
+"Modelo_simple,199.63,288.72,0.88"
+"Modelo_mejorado,151.98,244.22,0.91"
